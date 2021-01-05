@@ -1,4 +1,4 @@
-# RedStore 
+# RedStore 🏪
  Creation of a small shop 👖👟👕
  
  https://filip-shkolik.github.io/RedStore/
